@@ -7,11 +7,9 @@ body {
 }
 
 header {
-    font-family:Times New Roman;
-    background: royalblue;
-    color: white;
-    text-align: center;
-    padding: 20px 10px;
+    background: url("../images/company-logo.jpg") no-repeat center center;
+    background-size: cover; /* fills both height & width */
+    height: 150px; /* adjust as needed */
 }
 
 header .logo {
