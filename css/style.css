@@ -12,12 +12,6 @@ header {
     height: 150px; /* adjust as needed */
 }
 
-header .logo {
-    height: 100%;
-    width: 100%;
-    object-fit: cover; /* fills both without stretching */
-}
-
 main {
     max-width: 1000px;
     margin: auto;
