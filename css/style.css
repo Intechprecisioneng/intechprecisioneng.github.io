@@ -8,8 +8,9 @@ body {
 
 header {
     background: url("../images/company-logo.png") no-repeat center center;
-    background-size: cover; /* fills both height & width */
-    height: 150px; /* adjust as needed */
+    background-colour : darkblue
+    height: 120px; 
+    width: 120px;
 }
 
 main {
