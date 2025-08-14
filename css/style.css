@@ -7,10 +7,13 @@ body {
 }
 
 header {
-    background: url("../images/company-logo.png") no-repeat center center;
-    background-colour : darkblue
-    height: 120px; 
-    width: 120px;
+    background: darkblue;
+    text-align: center; /* horizontal centering */
+}
+
+header .logo {
+    display: block;        /* makes margin auto work */
+    margin: 0 auto;        /* horizontal centering */
 }
 
 main {
